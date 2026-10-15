@@ -1,0 +1,11 @@
+OrderID,Customer,City,Date,Amount
+101,  rahim  ,Dhaka,2026-10-01,1200
+102,Karim,DHAKA,01/10/2026,850
+103,Rahim,dhaka,2026/10/02,1200
+104,Nusrat,Chattogram,2026-10-02,2100
+105,Nusrat,Chattogram,2026-10-02,2100
+106,  sara,Sylhet,2026-10-03,N/A
+107,Arif,Chattogram,03-10-2026,950
+108,Mim,Dhaka,2026-10-04,1400
+109,Mim,Dhaka,2026-10-04,1400
+110,Tanvir,Sylhet,2026-10-05,1750
