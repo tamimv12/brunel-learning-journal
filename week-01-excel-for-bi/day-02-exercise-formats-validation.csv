@@ -1,0 +1,11 @@
+OrderID,OrderDate_raw,Product,Region,Quantity,UnitPrice,Status
+101,12/03/2026,laptop,Dhaka,2,850.00,Paid
+102,2026-03-15,Mouse,Chattogram,5,12.50,paid
+103,15 Mar 2026,Keyboard,Sylhet,3,25.00,PENDING
+104,03/20/2026,Laptob,Dhaka,1,850.00,Shipped
+105,2026-03-22,Monitor,Chattogram,2,180.00,Paid
+106,25 Mar 2026,Mouse,Dhaka,10,12.50,On the way
+107,2026-03-28,keyboard,Sylhet,4,25.00,Pending
+108,01/04/2026,Monitor,Dhaka,1,180.00,Cancelled
+109,2026-04-05,Laptop,Chattogram,2,850.00,Shipped
+110,08 Apr 2026,Mouse,Sylhet,6,12.50,Paid
