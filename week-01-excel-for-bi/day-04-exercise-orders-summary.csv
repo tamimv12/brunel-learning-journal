@@ -1,0 +1,11 @@
+OrderID,Category,Product,Quantity,UnitPrice
+301,Hardware,Laptop,1,850.00
+302,Accessories,Mouse,5,12.50
+303,Accessories,Keyboard,3,25.00
+304,Hardware,Monitor,2,180.00
+305,Accessories,Mouse,10,12.50
+306,Accessories,Headset,4,45.00
+307,Hardware,Laptop,1,850.00
+308,Hardware,Monitor,1,180.00
+309,Accessories,Keyboard,2,25.00
+310,Accessories,Headset,6,45.00
