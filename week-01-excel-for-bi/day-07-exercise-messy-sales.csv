@@ -1,0 +1,13 @@
+OrderID,OrderDate,Customer,Region,Product,Quantity,UnitPrice
+101,2026-01-05,Rahim Traders,Dhaka,Notebook,10,120
+102,05/02/2026, Rahim Traders ,dhaka,Pen,50,25
+101,2026-01-05,Rahim Traders,Dhaka,Notebook,10,120
+104,Mar 3 2026,Karim Store,Chittagong,Eraser,100,8
+105,2026-03-10,Alam Mart,SYLHET,Notebook,5,120
+106,2026-03-12,Alam Mart,Sylhet,Pen,,25
+107,2026-03-15,Karim Store,Chattogram,Notebook,8,120
+108,2026-04-02,Bashir & Co,Dhaka,Pen,20,25
+109,2026-04-05,Bashir & Co,Dhaka,Eraser,40,8
+109,2026-04-05,Bashir & Co,Dhaka,Eraser,40,8
+111,2026-04-10,Karim Store,Chittagong,Pen,30,25
+112,2026-04-12,Rahim Traders, Dhaka ,Eraser,60,8
