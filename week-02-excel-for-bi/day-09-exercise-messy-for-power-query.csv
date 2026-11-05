@@ -1,0 +1,12 @@
+OrderID,OrderDate,Customer,Region,Product,Quantity,UnitPrice
+101,2026-01-05," Rahim ",dhaka,Laptop,1,850
+102,15/01/2026,Karim,Dhaka,Mouse,2,25
+103,2026-01-20,Rahim,Dhaka,Mouse,2,25
+104,2026-02-02,Sumi,CHATTOGRAM,Keyboard,1,45
+104,2026-02-02,Sumi,CHATTOGRAM,Keyboard,1,45
+105,2026-02-10,"Nusrat ",Sylhet,Laptop,1,850
+106,10/02/2026,Nusrat,Sylhet,Mouse,4,25
+107,2026-02-18,Tanvir,Dhaka,Monitor,1,200
+108,2026-03-03,Tanvir,Dhaka,Mouse,2,25
+109,2026-03-09,,Chattogram,Keyboard,1,45
+110,2026-03-15,Farhana,Dhaka,Laptop,1,850
